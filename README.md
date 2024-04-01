@@ -12,7 +12,6 @@ Welcome to the Pet Hotel Application! This application allows users to manage gu
 ## Technologies Used
 
 - **Vue.js**: A progressive JavaScript framework for building user interfaces.
-- **Ajax (XHR)**: Used for asynchronous communication between the client and server to fetch and update data without refreshing the page.
 - **HTML/CSS**: Standard markup and styling languages for web development.
 - **JavaScript**: Programming language used to add interactivity and functionality to the application.
 
