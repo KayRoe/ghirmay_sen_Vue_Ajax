@@ -18,10 +18,19 @@ Welcome to the Pet Hotel Application! This application allows users to manage gu
 ## Installation
 
 1. Clone the repository: `git clone <repository-url>`
-2. Navigate to the project directory: `cd pet-hotel`
-3. Install dependencies: `npm install` or `yarn install`
-4. Start the development server: `npm run serve` or `yarn serve`
-5. Open the application in your web browser: `http://localhost:8080`
+
+
+
+### Front-end
+1. run `cd front-end`
+2. run `cd "Pet Hotel"`
+3. run `npm run dev`
+
+
+### Back-end
+1. run `cd back-end`
+2. run `php -S localhost:8000 -t public`
+
 
 ## Usage
 
