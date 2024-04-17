@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: localhost:8889
--- Generation Time: Apr 17, 2024 at 03:09 AM
+-- Generation Time: Apr 17, 2024 at 03:36 AM
 -- Server version: 5.7.39
 -- PHP Version: 7.4.33
 
@@ -66,11 +66,11 @@ CREATE TABLE `pets` (
 --
 
 INSERT INTO `pets` (`id`, `name`, `species`, `sex`, `age`, `image_url`, `owner_id`) VALUES
-(1, 'Pen', 'Maltese', 'Female', 2, 'image1', 1),
-(2, 'Andy', 'Shitzu', 'Male', 8, 'image2', 3),
-(3, 'Mocha', 'Pug', 'Female', 4, 'image3', 9),
-(4, 'Koba', 'Bulldog', 'Male', 7, 'image4', 15),
-(5, 'Misty', 'Beagle', 'Female', 2, 'image5', 17);
+(1, 'Pen', 'Husky', 'Female', 2, 'image1', 1),
+(2, 'Andy', 'Golden Retriever ', 'Male', 1, 'image2', 3),
+(3, 'Mocha', 'Border Collie', 'Female', 4, 'image3', 9),
+(4, 'Koba', 'Rottweiler', 'Male', 7, 'image4', 15),
+(5, 'Misty', 'Pomsky', 'Female', 2, 'image5', 17);
 
 -- --------------------------------------------------------
 
